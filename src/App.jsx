@@ -1,5 +1,5 @@
 import React from 'react'
-import Carts from './Components/Carts'
+import Carts from './components/Carts'
 import { BrowserRouter, Route, Routes,Navigate } from 'react-router-dom'
 import ProductContextComponents from './utils/ProductContextComponents'
 
